@@ -1,4 +1,10 @@
 git add.
 git commit -m "first commit"
+
+
 git push
 git pull origin main
+
+creez une nvl branch et deplacer des fichier dedans
+git branch suivi du nom de la nouvelle branche
+git checkout suivi du nom de la nouvelle branche 
